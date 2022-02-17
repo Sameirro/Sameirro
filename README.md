@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sameirro
 - 👀 I’m interested in ...alx
-- 🌱 I’m currently learning ... Alx-pre_cours
+- 🌱 I’m currently learning ... Alx-pre_course
 
 
 <!---
